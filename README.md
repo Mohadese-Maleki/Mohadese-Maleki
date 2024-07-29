@@ -3,7 +3,7 @@
 
  🎓 I am currently learning **Web design and programming**.
 
-🌱 I am currently learning ** Java ** and **tailwind**.
+🌱 I am currently learning **javascript** and **tailwind**.
 
 🎯 My Goal is to Contribute to as many **open source project** as possible.
 
