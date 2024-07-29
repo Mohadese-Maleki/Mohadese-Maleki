@@ -1,9 +1,4 @@
 # Hi, I’m Mohadese Maleki <img src=”https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif” width=”29px”>
-
-<table>
-
-<tr>
-
 <td valign=”center”>
 
  🎓 I am currently learning **Web design and programming**.
@@ -14,8 +9,6 @@
 
 ✨ I love to create different types of **contents**.
 
+<hr/>
 
 
-</tr>
-
-</table>
